@@ -35,8 +35,8 @@
 <!-- https://simpleicons.org/ -->
 <!-- ![???](https://img.shields.io/badge/표시되는텍스트-텍스트배경색.svg?&style=for-the-badge&logo=옆에띄우고싶은로고이름(simpleicons)&logoColor=ffffff) -->
 <!-- 000000 까만색, ffffff 하얀색 (로고) -->
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) 
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) 
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white) 
 ![JAVA](https://img.shields.io/badge/java-000000.svg?&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=ffffff)
