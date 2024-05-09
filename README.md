@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-![커버](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=코딩은%20재밌다!&animation=twinkling&fontSize=50)
+
 
 <div align="center">
 
